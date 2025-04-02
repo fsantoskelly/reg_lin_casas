@@ -1,4 +1,4 @@
-# Modelo para diagnóstico de câncer de mama
+# Modelo para previsào de preços de casas nos Estados Unidos
 
 👩‍💻 Autor: Kelly Ferreira
 
@@ -6,7 +6,7 @@
 
 📈 Desenvolvido durante a [Trilha Data Science - ADA Tech Santander Coders](https://ada.tech/certificado?code=91beda22-296b-ad92-1553-3580486bc487)
 
-Fonte do Dataset: [Kaggle](https://github.com/fsantoskelly/reg_lin_casas/blob/main/Housing.ipynb)
+Fonte do Dataset: [Kaggle](https://github.com/fsantoskelly/reg_lin_casas/blob/main/USA_Housing.csv)
 
 ## Objetivo do Modelo
 
