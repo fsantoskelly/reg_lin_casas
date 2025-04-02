@@ -1,4 +1,4 @@
-# Modelo para previsào de preços de casas nos Estados Unidos
+# Modelo para previsão de preços de casas nos Estados Unidos
 
 👩‍💻 Autor: Kelly Ferreira
 
