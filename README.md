@@ -6,7 +6,7 @@
 
 📈 Desenvolvido durante a [Trilha Data Science - ADA Tech Santander Coders](https://ada.tech/certificado?code=91beda22-296b-ad92-1553-3580486bc487)
 
-Fonte do Dataset: [Kaggle](https://www.kaggle.com/datasets/heptapod/titanic)
+Fonte do Dataset: [Kaggle](https://github.com/fsantoskelly/reg_lin_casas/blob/main/Housing.ipynb)
 
 ## Objetivo do Modelo
 
